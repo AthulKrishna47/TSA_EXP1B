@@ -65,6 +65,12 @@ LOG TRANSFORMATION:<br>
 
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/637d1ea4-88e7-40bd-8c6e-948bcf50646f" />
 
+LOG TRANSFORMATION WITH REGULAR DIFFERENECING:
+<img width="689" height="455" alt="image" src="https://github.com/user-attachments/assets/80744a22-2d02-4946-8bbf-f3f0830d30e2" />
+
+LOG TRANSFORMATION APPLIED WITH SEASONAL ADJUSTMENT:
+<img width="700" height="455" alt="image" src="https://github.com/user-attachments/assets/c09b8dd1-8d73-469a-a74a-8848216658fd" />
+
 
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
